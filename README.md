@@ -1,2 +1,5 @@
 # TrabajoICC
-# Trabajan crj
+
+# mínimo función sorteo
+grupos= sorteo()
+print(grupos)
